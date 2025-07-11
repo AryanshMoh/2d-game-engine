@@ -32,6 +32,6 @@ Key components include:
 
 ```bash
 src/main/java/app
-├── gameengine/           # Core game engine logic, decision tree classes, and interfaces
+├── gameengine/       # Core game engine logic, decision tree classes, and interfaces
 ├── games/            # Platform walls, Game levels, Objects      
 ├── tests/            # JUnit test cases for each major module and startgame function
